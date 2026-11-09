@@ -1,0 +1,5 @@
+node_modules/
+.features-gen/
+allure-results/
+playwright-report/
+test-results/
